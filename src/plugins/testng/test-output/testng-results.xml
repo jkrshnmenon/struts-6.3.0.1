@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="713" started-at="2023-09-11T09:54:43 CEST" finished-at="2023-09-11T09:54:44 CEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="713" started-at="2023-09-11T09:54:43 CEST" finished-at="2023-09-11T09:54:44 CEST">
+      <class name="org.apache.struts2.testng.TestNGStrutsTestCaseTest$RunTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.apache.struts2.testng.TestNGStrutsTestCaseTest$RunTest@10d59286]" name="setUp" is-config="true" duration-ms="696" started-at="2023-09-11T09:54:43 CEST" finished-at="2023-09-11T09:54:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRun()[pri:0, instance:org.apache.struts2.testng.TestNGStrutsTestCaseTest$RunTest@10d59286]" name="testRun" duration-ms="1" started-at="2023-09-11T09:54:44 CEST" finished-at="2023-09-11T09:54:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.apache.struts2.testng.TestNGStrutsTestCaseTest$RunTest@10d59286]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-09-11T09:54:44 CEST" finished-at="2023-09-11T09:54:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.apache.struts2.testng.TestNGStrutsTestCaseTest$RunTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
